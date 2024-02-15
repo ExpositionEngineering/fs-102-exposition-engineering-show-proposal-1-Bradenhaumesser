@@ -18,13 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Braden Haumesser
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+I adhered to the Allegheny College Honor Code while completing this project.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -32,71 +30,40 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+Gives people who are undecided an idea of a major to study
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Nothin Major
+- **Host**: Braden Haumesser
+- **Guest**: undecided
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**:Give students an idea of what kind of major you can pick while at Allegheny.
+- **Objective Two**:Show Key features Allegheny has for each major.
+- **Objective Three**:Allow students to value pros and cons of each major.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What is your major and why is it your favorite?
+- **Question Two**: What are the pros and cons for your major and if they ever thought about switching?
+- **Question Three**: What classes are needed to be taken in order to study your major?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: Needed to get an understanding of student I am interviewing
+- **Justification for Question Two**: Get an idea of why they picked their major
+- **Justification for Question Three**: Some students might not have an idea of the type of classes they need to make.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
-
+I picked to make my podcast about undecided students at the school.The Plan is to talk about each major and give a short summary and pros and cons. This would be good for students who are undecided and do not have an idea of what to do after college. I would like to interview somebody who has an understanding of what they want do after college and give an explanation on why they picked what they did. Another episode we can do is view each building and give tours of each class with an interview of an professor giving an inside look of the class. Many students come into college without an idea of a career they want and I feel like with these episodes it can help students out.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+Have an understanding or an idea of what major they want to pick. I am undecided and I feel like some students might need help finding an idea of what to major in.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference One**: [Prep School Scholar](https://blog.prepscholar.com/undeclared-major-college-application)
+- **Reference Two**: [Education Blogs](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
+- **Reference Three**: [Study Breaks](https://studybreaks.com/college/undecided-how-to-pick-college-major/)
