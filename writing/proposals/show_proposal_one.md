@@ -20,9 +20,7 @@
 
 ## Braden Haumesser !!!!!
 
-## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this proj
-
-You must type the sentence here in order to digitally sign your pledge.
+## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 I adhered to the Allegheny College Honor Code while completing this project.
 
@@ -45,15 +43,15 @@ Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
 - **Title**: Nothin Major
-- **Host**:Braden Haumesser
-- **Guest**:undecided
+- **Host**: Braden Haumesser
+- **Guest**: undecided
 
 ## 📝 Show Objectives
 
  Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**: Give students an idea of what kind of major you can pick while at Allegheny.
-- **Objective Two**: Show Key features Allegheny has for each major.
+- **Objective One**:Give students an idea of what kind of major you can pick while at Allegheny.
+- **Objective Two**:Show Key features Allegheny has for each major.
 - **Objective Three**:Allow students to value pros and cons of each major.
 
 ## 📚 Sample Questions
@@ -90,9 +88,6 @@ I am undeicded and i feel like some students might need help finding an idea of 
 
 Please reference at least three web sites or articles from a journal or a
 conference proceedings that you studied when preparing this proposal.
-
-Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
 
 - **Reference One**: [Prep School Scholar](https://blog.prepscholar.com/undeclared-major-college-application)
 - **Reference Two**: [Education Blogs](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
